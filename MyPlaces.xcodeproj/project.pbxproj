@@ -15,6 +15,7 @@
 		E96670C82AEB8E6D005FB3C9 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96670C72AEB8E6D005FB3C9 /* MainViewController.swift */; };
 		E96670CA2AEC2B78005FB3C9 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96670C92AEC2B78005FB3C9 /* CustomTableViewCell.swift */; };
 		E96670CC2AEC4A1D005FB3C9 /* PlaceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96670CB2AEC4A1C005FB3C9 /* PlaceModel.swift */; };
+		E96670CE2AED4BDE005FB3C9 /* NewPlaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96670CD2AED4BDE005FB3C9 /* NewPlaceViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		E96670C72AEB8E6D005FB3C9 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		E96670C92AEC2B78005FB3C9 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		E96670CB2AEC4A1C005FB3C9 /* PlaceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceModel.swift; sourceTree = "<group>"; };
+		E96670CD2AED4BDE005FB3C9 /* NewPlaceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPlaceViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				E96670CB2AEC4A1C005FB3C9 /* PlaceModel.swift */,
 				E96670B52AEB86ED005FB3C9 /* SceneDelegate.swift */,
 				E96670B92AEB86ED005FB3C9 /* Main.storyboard */,
+				E96670CD2AED4BDE005FB3C9 /* NewPlaceViewController.swift */,
 				E96670BC2AEB86EF005FB3C9 /* Assets.xcassets */,
 				E96670BE2AEB86EF005FB3C9 /* LaunchScreen.storyboard */,
 				E96670C12AEB86EF005FB3C9 /* Info.plist */,
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E96670C82AEB8E6D005FB3C9 /* MainViewController.swift in Sources */,
+				E96670CE2AED4BDE005FB3C9 /* NewPlaceViewController.swift in Sources */,
 				E96670B42AEB86ED005FB3C9 /* AppDelegate.swift in Sources */,
 				E96670CC2AEC4A1D005FB3C9 /* PlaceModel.swift in Sources */,
 				E96670CA2AEC2B78005FB3C9 /* CustomTableViewCell.swift in Sources */,
